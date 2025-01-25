@@ -14,6 +14,6 @@
 ## UpdateGradeHandler运行截图
 ![image](https://github.com/TOMCAT2025/qingfeng/blob/main/photo/UpdateGradeHandler.png)
 ## QueryGradeHandler运行截图
-![image](https://github.com/TOMCAT2025/qingfeng/blob/main/photo/QueryGradeHandler.png)
+![image](https://github.com/TOMCAT2025/qingfeng/blob/main/QueryGradeHandler.png)
 ## DeleteGradeHandler运行截图
 ![image](https://github.com/TOMCAT2025/qingfeng/blob/main/photo/DeleteGradeHandler.png)
