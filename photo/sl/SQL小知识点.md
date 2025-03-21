@@ -10,4 +10,4 @@
 5. IF(条件表达式,值1,值2)，如果条件表达式为True，返回 值1 ，为False,返回 值2 .
 6. 奇数偶数判断 a%2 = 1,a为奇数
 7. left(trans_date,7),取前七个字符  
-   ![image1](photo\1.png)
+   ![image1](https://github.com/TOMCAT2025/qingfeng/blob/main/photo/sl/photo/1.png)
